@@ -1,1 +1,2 @@
-Simple typing test App
+Simple typing test App. \
+[Visit here](https://typing-test-mhakash.vercel.app/)
